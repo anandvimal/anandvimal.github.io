@@ -6,13 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Portfolio
+title: Notes on Python
 email: colirsweb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog where I update my projects info. And other random stuff.
+  I write python tutorials on this blog.
+  Another Line about me :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://anandvimal.github.io" # the base hostname & protocol for your site
-twitter_username: aplam_chaplam
+twitter_username: anandvima1
 github_username:  anandvimal
 
 # Build settings
